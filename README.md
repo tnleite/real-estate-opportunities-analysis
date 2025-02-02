@@ -66,8 +66,8 @@ Você pode explorar a análise de duas formas:
 - Análise de correlações para identificar fatores relevantes.  
 
 ### **Parte 3: Modelagem Preditiva**  
-- Aplicação de modelos ARIMA e XGBoost para previsão dos anos de 2021 e 2022.  
-- Avaliação dos modelos com base em métricas de erro, como RMSE e MAE.  
+- Aplicação de modelos **XGBoost**, **CatBoost** e **LightGBM** para previsão dos anos de **2021** e **2022**.  
+- Avaliação dos modelos com base em métricas de erro, como **RMSE**, **MAE** e **R²**.
 
 ### **Parte 4: Clusterização**  
 - Uso de K-Means, Agglomerative Clustering e DBSCAN para agrupar estados.  
