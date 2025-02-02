@@ -2,18 +2,21 @@
 
 <img src="03-Recursos/imagem_capa.png">
 
-[![Python Version](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
-[![Jupyter Version](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)  
-[![Pandas](https://img.shields.io/badge/Pandas-2.2.2-green?logo=pandas)](https://pandas.pydata.org/)  
-[![NumPy](https://img.shields.io/badge/NumPy-1.26.4-blue?logo=numpy)](https://numpy.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.0-blue?logo=matplotlib)](https://matplotlib.org/)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-blue?logo=seaborn)](https://seaborn.pydata.org/)  
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.6.1-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-1.0.1-blue?logo=geopandas)](https://geopandas.org/)  
-[![LightGBM](https://img.shields.io/badge/LightGBM-4.5.0-green)](https://lightgbm.readthedocs.io/)  
-[![CatBoost](https://img.shields.io/badge/CatBoost-2.0-yellow)](https://catboost.ai/)  
-[![Project Status](https://img.shields.io/badge/Status-Completed-green)]()  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
+<div align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white"></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2.2.2-green?logo=pandas"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-1.26.4-blue?logo=numpy"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-3.10.0-blue?logo=matplotlib"></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-0.13.2-blue?logo=seaborn"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-1.6.1-orange?logo=scikit-learn&logoColor=white"></a>
+  <a href="https://geopandas.org/"><img src="https://img.shields.io/badge/GeoPandas-1.0.1-blue?logo=geopandas"></a>
+  <a href="https://lightgbm.readthedocs.io/"><img src="https://img.shields.io/badge/LightGBM-4.5.0-green"></a>
+  <a href="https://catboost.ai/"><img src="https://img.shields.io/badge/CatBoost-2.0-yellow"></a>
+  <a href=""><img src="https://img.shields.io/badge/Status-Completed-green"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</div>
 
 ---
 
